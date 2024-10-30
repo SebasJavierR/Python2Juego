@@ -1,0 +1,5 @@
+K                               (tamaño al que debe llegar la snake para pasar el nivel, debe ser mayor a 1)
+T                               (tiempo de reacción de la snake, debe ser mayor a 0)
+IxJ                             (dimensiones, donde I es alto, y J es ancho)
+x1,y1;x2,y2;...;xN,yN           (todas las posiciones donde hay un obstáculo)
+simbolo1,simbolo2,...,simboloN  (los N tipos de especiales que pueden aparecer en el nivel, deben ser especiales válidos)

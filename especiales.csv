@@ -1,0 +1,5 @@
+simbolo1,aspecto,alteracion,tecla,descripcion
+!,velocidad,-0.2,f,aselera el movimiento en -0.2
+?,velocidad,+0.2,g,disminuye el movimiento en +0.2
+@,largo,+1,h,Alargar 1 la serpiente en +1
+$,largo,-1,j,Acorta 1 la serpiente -1
